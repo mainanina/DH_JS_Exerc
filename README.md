@@ -1,1 +1,1 @@
-# DH_JS_Exerc
+JavaScript exercises
